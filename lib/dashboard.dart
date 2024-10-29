@@ -13,7 +13,7 @@ class DashboardPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Welcome to the Dashboard Bro!',
+              'Welcome to the Dashboard Shaiful Anam!',
               style: TextStyle(fontSize: 24),
             ),
             SizedBox(height: 20),
